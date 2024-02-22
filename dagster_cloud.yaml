@@ -1,0 +1,4 @@
+locations:
+- code_source: hn_dagster.py
+    package_name: 
+  location_name: Dag-second
